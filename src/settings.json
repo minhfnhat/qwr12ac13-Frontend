@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Elevate your potential with our unparalleled solutions, inspired by the legendary Wukong.",
+        "title": "Welcome to Jong: Harness the Power of Wukong"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Elevate your potential with our unparalleled solutions, inspired by the legendary Wukong.",
+        "title": "Welcome to Jong: Harness the Power of Wukong"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Elevate your potential with our unparalleled solutions, inspired by the legendary Wukong.",
+        "title": "Welcome to Jong: Harness the Power of Wukong"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Elevate your potential with our unparalleled solutions, inspired by the legendary Wukong.",
+        "title": "Welcome to Jong: Harness the Power of Wukong"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Elevate your potential with our unparalleled solutions, inspired by the legendary Wukong.",
+        "title": "Welcome to Jong: Harness the Power of Wukong"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Elevate your potential with our unparalleled solutions, inspired by the legendary Wukong.",
+        "title": "Welcome to Jong: Harness the Power of Wukong"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Elevate your potential with our unparalleled solutions, inspired by the legendary Wukong.",
+        "title": "Welcome to Jong: Harness the Power of Wukong"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Elevate your potential with our unparalleled solutions, inspired by the legendary Wukong.",
+        "title": "Welcome to Jong: Harness the Power of Wukong"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Elevate your potential with our unparalleled solutions, inspired by the legendary Wukong.",
+        "title": "Welcome to Jong: Harness the Power of Wukong"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Welcome to Jong: Harness the Power of Wukong",
+  "subtitle": "Elevate your potential with our unparalleled solutions, inspired by the legendary Wukong."
+}
